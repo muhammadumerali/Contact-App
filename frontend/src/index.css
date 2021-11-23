@@ -1,0 +1,6 @@
+.hover-buttons:hover {
+  opacity: 0.5;
+}
+.hover-buttons:active {
+  opacity: 0;
+}
